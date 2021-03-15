@@ -14,8 +14,8 @@ public class main {
 //        LoopControl lp = new LoopControl();
 //        lp.foo();
 
-        ForLoop op = new ForLoop();
-        op.foo();
+//        ForLoop op = new ForLoop();
+//        op.foo();
 
 
     }
