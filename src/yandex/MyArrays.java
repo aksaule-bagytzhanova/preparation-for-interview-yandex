@@ -1,5 +1,7 @@
 package yandex;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class MyArrays {
     int [] array = new int[3];
     Candy [] box = new Candy[5];
@@ -13,7 +15,14 @@ public class MyArrays {
 
     Candy [] box3;
 
+
     public void foo(){
+        int [][] array3 = new int[2][2];
+        int [][] array4 = {{2,3},{3,4}};
+
+        System.out.println(array4[1][0]);
+        }
+
 
     }
-}
+

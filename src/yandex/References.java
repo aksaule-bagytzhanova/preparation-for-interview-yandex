@@ -12,4 +12,5 @@ public class References {
     public void foo(){
         new String("My ym");
     }
+
 }
